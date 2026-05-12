@@ -65,21 +65,21 @@ Provided case study datasets (Google Drive links)
 
 ## 📁 Project Structure
 
-eniac-ab-testing/
-│
-├── data/
-│   ├── eniac_a.csv
-│   ├── eniac_b.csv
-│   ├── eniac_c.csv
-│   ├── eniac_d.csv
-│
-├── notebooks/
-│   └── eniac_ab_testing_analysis.ipynb
-│
-├── visuals/
-│   └── statistical_significance_heatmap.png
-│
-└── README.md
+    📦eniac-ab-testing/
+    │
+    ├── 📂 data/
+    │   ├── eniac_a.csv
+    │   ├── eniac_b.csv
+    │   ├── eniac_c.csv
+    │   ├── eniac_d.csv
+    │
+    ├── 📜 notebooks/
+    │   └── eniac_ab_testing_analysis.ipynb
+    │
+    ├──📂 visuals/
+    │   └── statistical_significance_heatmap.png
+    │
+    └── README.md
 
 ## 📈 Visualisations
 
@@ -114,7 +114,7 @@ Further evaluation using additional business metrics and repeated testing is rec
 ## 🔗 How to Use This Project
 
 1. Open the main analysis notebook:
-  👉 [View Notebook]("J:\Data science\Eniac-ABTest\notebooks\eniac_ab_testing_analysis.ipynb")
+ 👉 [View Notebook](./notebooks/eniac_ab_testing_analysis.ipynb)
 
 3. Ensure all dataset files are available in the `/data` folder:
    - eniac_a.csv
