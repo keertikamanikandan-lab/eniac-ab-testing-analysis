@@ -73,13 +73,13 @@ Provided case study datasets (Google Drive links)
     │   ├── eniac_c.csv
     │   ├── eniac_d.csv
     │
-    ├── 📜 notebooks/
+    ├── 📓 notebooks/
     │   └── eniac_ab_testing_analysis.ipynb
     │
     ├──📂 visuals/
     │   └── statistical_significance_heatmap.png
     │
-    └── README.md
+    └── 📜 README.md
 
 ## 📈 Visualisations
 
