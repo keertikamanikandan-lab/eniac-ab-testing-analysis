@@ -30,9 +30,6 @@ Provided case study datasets (Google Drive links)
 - Total visits per version
 - Click-through rate (CTR)
 
-### Note:
-Data is pre-aggregated and does not include individual user-level tracking.
-
 ## 🚀 Key Findings & Results
 
 - There is a statistically significant difference in click-through rates across website versions (Chi-square test, α = 0.05).
