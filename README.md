@@ -94,7 +94,7 @@ This heatmap shows pairwise statistical significance between website versions ba
 
 This helps identify which website versions differ significantly in user engagement and click-through performance.
 
-![Statistical significance Heatmap](./visuals/significance_heatmap.png)
+![Heatmap](./visuals/significance_heatmap.png))
 
 ## 📌 Business Insights
 
