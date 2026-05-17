@@ -1,5 +1,11 @@
 # Eniac Website A/B Testing: Click-Through Rate Analysis Using Chi-Square Test
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics-yellow)
+![A/B Testing](https://img.shields.io/badge/Method-A%2FB%20Testing-purple)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 🎯 Project Overview
 
 This project analyses the performance of four website versions (A, B, C, and D) for an e-commerce platform by evaluating their click-through rates (CTR). The goal is to determine whether there is a statistically significant difference in user engagement across versions and identify the best-performing design.
