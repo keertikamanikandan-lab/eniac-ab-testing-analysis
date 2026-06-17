@@ -1,4 +1,4 @@
-# Eniac Website A/B Testing: Click-Through Rate Analysis Using Chi-Square Test
+# A/B Testing Analysis for Business Decisions
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
@@ -71,7 +71,7 @@ Provided case study datasets (Google Drive links)
 
 ## 📁 Project Structure
 
-    📦eniac-ab-testing/
+    📦A-B-Testing-Analysis-for-Business-Decisions/
     │
     ├── 📂 data/
     │   ├── eniac_a.csv
